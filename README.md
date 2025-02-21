@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Python, C/C++, HTML, CSS, JavaScript**
 
-- 📫 How to reach me **nonexyzabc123@gmail.com**
+- 📫 How to reach me **sohamdeshmukh@ieee.org**
 
 - 📄 Know about my experiences [coming soon](coming soon)
 
